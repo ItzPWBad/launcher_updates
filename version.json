@@ -5,7 +5,7 @@
   "minSupported": "1.0.0",
   "downloads": {
     "win32": {
-      "url": "https://raw.githubusercontent.com/ВАШ_РЕПОЗИТРИЙ/main/dist/AstralLauncher.exe",
+      "url": "https://github.com/ItzPWBad/launcher_updates/releases/download/v1.0.6/AstralSetup-1.0.6.exe",
       "sha256": "2BC55D2061C7A766C5CEE70DB14DB74D4922B040DA8AD0EF571418D2F94F18AC"
     }
   }
